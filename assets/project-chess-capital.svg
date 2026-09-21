@@ -31,10 +31,9 @@
     @keyframes card-auriny-chess-capital-float-c { 0%,100% { transform: translate(0,0) scale(1); opacity: .34; } 50% { transform: translate(18px,-12px) scale(1.18); opacity: .62; } }
     @keyframes card-auriny-chess-capital-cursor { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
     @keyframes card-auriny-chess-capital-ring { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
-    @keyframes card-auriny-chess-capital-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes card-auriny-chess-capital-chip { from { transform: translateY(8px); } to { transform: translateY(0); } }
     @media (prefers-reduced-motion: reduce) {
       #card-auriny-chess-capital * { animation: none !important; }
-      #card-auriny-chess-capital .chip, #card-auriny-chess-capital .d { opacity: 1; }
     }
   </style>
   <g id="card-auriny-chess-capital">

@@ -31,10 +31,9 @@
     @keyframes projects-header-float-c { 0%,100% { transform: translate(0,0) scale(1); opacity: .34; } 50% { transform: translate(18px,-12px) scale(1.18); opacity: .62; } }
     @keyframes projects-header-cursor { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
     @keyframes projects-header-ring { 0%,100% { opacity: .5; } 50% { opacity: 1; } }
-    @keyframes projects-header-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes projects-header-chip { from { transform: translateY(8px); } to { transform: translateY(0); } }
     @media (prefers-reduced-motion: reduce) {
       #projects-header * { animation: none !important; }
-      #projects-header .chip, #projects-header .d { opacity: 1; }
     }
   </style>
   <g id="projects-header">
