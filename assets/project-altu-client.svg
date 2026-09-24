@@ -52,7 +52,7 @@
     <text x="18" y="104" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#8b949e">Room storage and Material 3 UI.</text>
     <rect x="18" y="122" width="60.4" height="19" rx="9.5" fill="#A97BFF" fill-opacity="0.15" stroke="#A97BFF" stroke-opacity="0.45"/>
     <text x="48.2" y="135" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#A97BFF">Kotlin</text>
-    <text x="18" y="162" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e"><tspan fill="#5594c8">&#9733;</tspan> 0<tspan fill-opacity="0.7" dx="12">updated 19 Sep 2026</tspan></text>
+    <text x="18" y="162" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e"><tspan fill="#5594c8">&#9733;</tspan> 0<tspan fill-opacity="0.7" dx="12">updated 24 Sep 2026</tspan></text>
 
     <circle cx="368" cy="102" r="26" fill="none" stroke="#8b949e" stroke-opacity="0.18" stroke-width="8"/>
     <circle cx="368" cy="102" r="26" fill="none" stroke="#A97BFF" stroke-width="8" stroke-dasharray="163.36 0.00" stroke-dashoffset="0.00" transform="rotate(-90 368 102)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.35s" fill="freeze"/><animate attributeName="stroke-dasharray" from="0 163.36" to="163.36 0.00" dur="0.6s" begin="0.35s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.3 0 0.2 1"/></circle>
