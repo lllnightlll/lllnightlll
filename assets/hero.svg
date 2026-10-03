@@ -86,7 +86,7 @@
     </g>
     <g class="chip" style="animation-delay:270ms">
       <rect x="424" y="166" width="110" height="28" rx="14" fill="rgba(255,255,255,0.055)" stroke="#58a6ff" stroke-opacity="0.68"/>
-      <text x="439" y="185" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="750" fill="#e6edf3">C++</text>
+      <text x="439" y="185" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12" font-weight="750" fill="#e6edf3">JavaScript</text>
     </g>
     <path d="M166 76 C246 50 330 50 410 77" fill="none" stroke="url(#hero-shine)" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
     <rect x="0.5" y="0.5" width="859" height="239" rx="19.5" fill="none" stroke="#58a6ff" stroke-opacity="0.62"/>
